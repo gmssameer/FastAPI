@@ -2845,3 +2845,16 @@ AttributeError: 'EditTodo' object has no attribute 'prority'. Did you mean: 'pri
 2025-02-22 23:58:25,250 - uvicorn.error - INFO - Application shutdown complete.
 2025-02-22 23:58:25,251 - uvicorn.error - INFO - Finished server process [9269]
 2025-02-22 23:58:25,258 - uvicorn.error - INFO - Stopping reloader process [17271]
+2025-02-23 21:52:48,119 - root - INFO - Starting FastAPI...
+2025-02-23 21:52:48,135 - uvicorn.error - INFO - Will watch for changes in these directories: ['C:\\Users\\sameer-8317.SAMEER-8317\\Documents\\FastAPI\\app']
+2025-02-23 21:52:48,135 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+2025-02-23 21:52:48,135 - uvicorn.error - INFO - Started reloader process [14292] using WatchFiles
+2025-02-23 21:52:49,299 - root - INFO - Starting FastAPI...
+2025-02-23 21:52:49,308 - uvicorn.error - INFO - Started server process [30600]
+2025-02-23 21:52:49,311 - uvicorn.error - INFO - Waiting for application startup.
+2025-02-23 21:52:49,314 - uvicorn.error - INFO - Application startup complete.
+2025-02-23 21:52:53,037 - uvicorn.error - INFO - Shutting down
+2025-02-23 21:52:53,147 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-02-23 21:52:53,147 - uvicorn.error - INFO - Application shutdown complete.
+2025-02-23 21:52:53,147 - uvicorn.error - INFO - Finished server process [30600]
+2025-02-23 21:52:53,221 - uvicorn.error - INFO - Stopping reloader process [14292]
